@@ -75,6 +75,13 @@ vertical-align: middle;
 .spinner,.unfollow-desc {
     display: none;
 }
+.off .unfollow-desc {
+    display: block;
+}
+.off .follow-desc {
+    display: none;
+}
+
 
 .palette__code {
     display: block;
