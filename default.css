@@ -39,3 +39,23 @@ a img {
     -webkit-font-smoothing: antialiased;
     margin-bottom: 5px;
 }
+.sample {
+    width: 600px;
+    margin: 0 auto;
+}
+button.follow-button {
+    vertical-align: middle;
+    border: 1px solid #4aa3df;
+    color: #4aa3df;
+    font-size: 13px;
+    padding: 12px;
+    -moz-border-radius: 999em;
+    -webkit-border-radius: 999em;
+    border-radius: 999em;
+    margin: 0 auto;
+    width: 105px;
+    margin-top: 10px;
+    background-color: transparent;
+    display: block;
+    margin-top: 0px;
+}
