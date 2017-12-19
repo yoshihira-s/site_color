@@ -39,6 +39,17 @@ a img {
     margin: 15px 0;
     text-align: center;
 }
+
+.user .user-descs h3 {
+    font-size: 15px;
+    color: #333;
+    height: 15px;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 5px;
+    text-align:center;
+}
+
 .sample {
     width: 600px;
     margin: 0 auto;
