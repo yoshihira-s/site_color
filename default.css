@@ -97,3 +97,36 @@ vertical-align: middle;
     background-color: #2D4472;
 }
 
+
+.type2 .palette__code {
+    color: #2a83a2 ;
+}
+.type2 button.follow-button{
+    border: 1px solid #2a83a2 ;
+    background-color: #2a83a2 ;
+}
+
+.type3 .palette__code {
+    color: #267CA7 ;
+}
+.type3 button.follow-button{
+    border: 1px solid #267CA7 ;
+    background-color: #267CA7 ;
+}
+
+
+.type4 .palette__code {
+    color: #2ca9e1 ;
+}
+.type4 button.follow-button{
+    border: 1px solid #2ca9e1 ;
+    background-color: #2ca9e1 ;
+}
+
+.type5 .palette__code {
+    color: #0095d9 ;
+}
+.type5 button.follow-button{
+    border: 1px solid #0095d9 ;
+    background-color: #0095d9 ;
+}
