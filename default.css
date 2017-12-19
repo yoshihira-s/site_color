@@ -31,13 +31,13 @@ a img {
     max-width: 160px;
     margin: 15px 0;
 }
-.user .user-descs h3 {
-    font-size: 15px;
-    color: #333;
-    height: 15px;
-    overflow: hidden;
-    -webkit-font-smoothing: antialiased;
-    margin-bottom: 5px;
+.user .user-descs {
+    word-break: break-all;
+    word-wrap: break-word;
+    width: 45vw;
+    max-width: 160px;
+    margin: 15px 0;
+    text-align: center;
 }
 .sample {
     width: 600px;
@@ -58,4 +58,7 @@ button.follow-button {
     background-color: transparent;
     display: block;
     margin-top: 0px;
+}
+.spinner {
+    display: none;
 }
