@@ -56,8 +56,6 @@ a img {
 }
 button.follow-button {
 vertical-align: middle;
-    border: 1px solid #4aa3df;
-    color: #4aa3df;
     font-size: 13px;
     padding: 12px;
     -moz-border-radius: 999em;
@@ -70,7 +68,6 @@ vertical-align: middle;
     display: block;
     padding: 8px 0;
     margin: 32px auto;
-    background-color: #4aa3df;
     color: #FFF;
     border-radius: 3px;
     font-size: 12px;
@@ -89,5 +86,10 @@ vertical-align: middle;
 }
 .type1 .palette__code{
     background-color: #2D4472;
+}
+.type1 .button.follow-button{
+    border: 1px solid #2D4472;
+    color: #2D4472;
+     background-color: #2D4472;
 }
 
