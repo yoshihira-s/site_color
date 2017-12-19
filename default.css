@@ -55,7 +55,7 @@ a img {
     margin: 0 auto;
 }
 button.follow-button {
-    vertical-align: middle;
+vertical-align: middle;
     border: 1px solid #4aa3df;
     color: #4aa3df;
     font-size: 13px;
@@ -68,7 +68,13 @@ button.follow-button {
     margin-top: 10px;
     background-color: transparent;
     display: block;
-    margin-top: 0px;
+    padding: 8px 0;
+    margin: 32px auto;
+    background-color: #4aa3df;
+    color: #FFF;
+    border-radius: 3px;
+    font-size: 12px;
+    border-color: #4aa3df;
 }
 .spinner,.unfollow-desc {
     display: none;
