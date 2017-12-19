@@ -70,7 +70,7 @@ button.follow-button {
     display: block;
     margin-top: 0px;
 }
-.spinner {
+.spinner,.unfollow-desc {
     display: none;
 }
 
