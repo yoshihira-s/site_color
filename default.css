@@ -79,12 +79,11 @@ vertical-align: middle;
 .palette__code {
     display: block;
     line-height: 100px;
-    color: #FFF;
     font-size: 50px;
     text-align: center;
 }
-.type1 .palette__code{
-    background-color: #2D4472;
+.type1 .palette__code {
+    color: #2D4472;
 }
 .type1 button.follow-button{
     border: 1px solid #2D4472;
