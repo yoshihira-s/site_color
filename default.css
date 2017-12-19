@@ -1,0 +1,41 @@
+.home-index-timeline .global-timeline-style .tabs-area .swiper-container .swiper-slide .inner-official-users .user-area {
+    display: inline-block;
+    margin: 0 1.5% 20px 1.5%;
+}
+.home-index-timeline .global-timeline-style .tabs-area .swiper-container .swiper-slide .inner-official-users .user {
+    display: inline-block;
+}
+.home-index-timeline .global-timeline-style .tabs-area .swiper-container .swiper-slide .inner-official-users .user .user-pic {
+    width: 40vw;
+    height: 40vw;
+    max-width: 150px;
+    max-height: 150px;
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+}
+.home-index-timeline .global-timeline-style .tabs-area .swiper-container .swiper-slide .inner-official-users .user .user-pic img {
+    object-fit: cover;
+    width: 40vw;
+    height: 40vw;
+    max-width: 150px;
+    max-height: 150px;
+}
+a img {
+    border: none;
+}
+.home-index-timeline .global-timeline-style .tabs-area .swiper-container .swiper-slide .inner-official-users .user .user-descs {
+    word-break: break-all;
+    word-wrap: break-word;
+    width: 45vw;
+    max-width: 160px;
+    margin: 15px 0;
+}
+.home-index-timeline .global-timeline-style .tabs-area .swiper-container .swiper-slide .inner-official-users .user .user-descs h3 {
+    font-size: 15px;
+    color: #333;
+    height: 15px;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 5px;
+}
